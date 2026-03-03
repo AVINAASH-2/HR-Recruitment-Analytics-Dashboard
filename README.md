@@ -1,37 +1,33 @@
-# Zomato Food Performance & Demand Analytics Dashboard
+# HR Recruitment Analytics Dashboard
 
 ## 📌 Project Overview
-This project analyzes restaurant and dish performance data to understand customer preferences, popularity trends, and food demand patterns across cities.
+This dashboard analyzes interview performance and candidate selection data across departments to evaluate recruitment efficiency.
 
 ## 🎯 Business Objectives
-- Evaluate dish popularity using vote counts
-- Compare average ratings across cities
-- Analyze relationship between popularity and quality
-- Identify top-performing dishes
-- Compute weighted performance score
+- Track total candidates and selection rates
+- Compare department-wise performance
+- Analyze interview round outcomes
+- Evaluate selection ratio across domains
 
 ## 📊 Key KPIs
-- Total Votes
-- Average Rating
-- Popularity Score
-- Weighted Performance Score
-- City-wise Performance
-- Top 10 Dishes
+- Total Candidates
+- Selected vs Rejected
+- Selection Percentage
+- Department-wise Distribution
+- Interview Round Performance
 
 ## 📈 Key Insights
-- Identified dishes with high popularity but moderate ratings
-- Detected cities with highest customer engagement
-- Highlighted correlation between rating and vote count
-- Built weighted metric to evaluate balanced performance
+- Identified departments with higher selection rates
+- Analyzed candidate distribution across domains
+- Evaluated efficiency of interview rounds
 
 ## 🛠 Tools & Technologies
 - Power BI
-- DAX Calculations
 - Data Modeling
-- Analytical Visualization
+- KPI Dashboard Design
 
 
 
 ---
 
-This dashboard demonstrates analytical thinking, correlation analysis, and performance scoring techniques.
+This project demonstrates recruitment analytics and performance reporting capabilities.
